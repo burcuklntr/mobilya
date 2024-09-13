@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Lucida Handwriting';
+    src: url('/path/to/lucida-handwriting.woff2') format('woff2'),
+         url('/path/to/lucida-handwriting.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
